@@ -1,0 +1,93 @@
+[
+    {
+        "model": "personalprojectsapi.project",
+        "pk": 1,
+        "fields": {
+            "title": "Pet Adoption",
+            "screenshot": "https://res.cloudinary.com/nashville-software-school/image/upload/v1594915317/ecwo6ogv/petAdoption-screenshot_pqsrgd.png",
+            "description": "This single page app allows you to filter by pet type, and even add your own pet!",
+            "technologies_used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+            "available": true,
+            "project_url": "https://pet-adoption-ba8f9.firebaseapp.com/",
+            "github_url": "https://github.com/davideverett89/pet-adoption"
+        }
+    },
+    {
+        "model": "personalprojectsapi.project",
+        "pk": 2,
+        "fields": {
+            "title": "Group Project: Band Websites-Battleheart",
+            "screenshot": "https://res.cloudinary.com/nashville-software-school/image/upload/v1596824298/ecwo6ogv/Battleheart_bigv5u.png",
+            "description": "Welcome to the website for the band Battleheart!  This was my first group project at NSS.",
+            "technologies_used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+            "available": true,
+            "project_url": "https://bands-battleheart.firebaseapp.com/",
+            "github_url": "https://github.com/davideverett89/bands-battleheart"
+        }
+    },
+    {
+        "model": "personalprojectsapi.project",
+        "pk": 3,
+        "fields": {
+            "title": "Group Project: Chatty",
+            "screenshot": "https://res.cloudinary.com/nashville-software-school/image/upload/v1596830318/ecwo6ogv/Screen_Shot_2020-08-07_at_2.58.17_PM_nq7fn3.png",
+            "description": "This is a simple chat app that allows the user to switch between profile perspectives.",
+            "technologies_used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+            "available": true,
+            "project_url": "https://chatty-pitcherplants.firebaseapp.com/",
+            "github_url": "https://github.com/davideverett89/chatty-pitcherplants"
+        }
+    },
+    {
+        "model": "personalprojectsapi.project",
+        "pk": 4,
+        "fields": {
+            "title": "Sorting Hat",
+            "screenshot": "https://res.cloudinary.com/nashville-software-school/image/upload/v1594915344/ecwo6ogv/sortingHat-screenshot_vvrlqi.png",
+            "description": "Just like the Sorting Hat in the Harry Potter series, this app will take your name and assign you to a Hogwarts house.  Students can also be expelled so be on your best behavior!",
+            "technologies_used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+            "available": true,
+            "project_url": "https://sorting-hat-e963d.firebaseapp.com/",
+            "github_url": "https://github.com/davideverett89/sorting-hat"
+        }
+    },
+    {
+        "model": "personalprojectsapi.project",
+        "pk": 5,
+        "fields": {
+            "title": "Bear Watcher",
+            "screenshot": "https://res.cloudinary.com/nashville-software-school/image/upload/v1594915356/ecwo6ogv/bearWatcher-screenshot_qqf3lo.png",
+            "description": "Track bears in the Katmai National Park in Alaska and watch as they feast on countless salmon.",
+            "technologies_used": "HTML, CSS, JavaScript ES6 Modules, Version Control with Github",
+            "available": true,
+            "project_url": "https://bear-watcher.firebaseapp.com/",
+            "github_url": "https://github.com/davideverett89/bear-watcher"
+        }
+    },
+    {
+        "model": "personalprojectsapi.project",
+        "pk": 6,
+        "fields": {
+            "title": "Firebase Pinterest",
+            "screenshot": "https://res.cloudinary.com/nashville-software-school/image/upload/v1594915366/ecwo6ogv/firebasePinterest-screenshot_ncsrci.png",
+            "description": "Keep a virtual collection of interests and ideas with this simulation of Pinterest that uses Firebase and showcases full CRUD.",
+            "technologies_used": "Git, HTML, CSS, Webpack, JavaScript ES6 Modules, and Firebase.",
+            "available": true,
+            "project_url": "https://pinterest-d5c39.firebaseapp.com/",
+            "github_url": "https://github.com/davideverett89/pinterest"
+        }
+    },
+    {
+        "model": "personalprojectsapi.project",
+        "pk": 7,
+        "fields": {
+            "title": "Apparty",
+            "screenshot": "https://res.cloudinary.com/nashville-software-school/image/upload/v1594915309/ecwo6ogv/apparty-screenshot_f9xj8p.png",
+            "description": "A socially distant birthday tracking and celebration app.  Create a birthday event for a friend, invite all your other friends, and remind that special someone that life still has meaning!",
+            "technologies_used": "React, React Router DOM, Bootstrap/reactstrap, Moment.js, Axios, Firebase, Cloudinary, HTML, CSS/SCSS",
+            "available": true,
+            "project_url": "https://socially-distant-birthday.firebaseapp.com/",
+            "github_url": "https://github.com/davideverett89/socially-distant-birthday"
+        }
+    }
+]

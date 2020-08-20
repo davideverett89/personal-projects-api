@@ -17,8 +17,10 @@ from django.urls import include, path
 from rest_framework import routers
 from rest_framework.authtoken.views import obtain_auth_token
 from personalprojectsapi.models import Project
+from personalprojectsapi.views import Projects
 
 router = routers.DefaultRouter(trailing_slash=False)
+router.register(r'projects', Projects, 'project')
 
 urlpatterns = [
     path('', include(router.urls)),
