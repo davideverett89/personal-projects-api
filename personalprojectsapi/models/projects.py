@@ -16,7 +16,7 @@ class Project(models.Model):
     screenshot = models.CharField(max_length=500)
     technologies_used = models.CharField(max_length=500)
     title = models.CharField(max_length=500)
-    url = models.CharField(max_length=500)
+    project_url = models.CharField(max_length=500)
 
     class Meta:
         ordering = ("title",)
